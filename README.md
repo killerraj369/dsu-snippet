@@ -1,7 +1,7 @@
 # dsu-snippet
 A snippet for DSU in C++
 
-# Use DSU When ->
+# Use DSU When
 1.) Dynamic Graph is present or grpah is changing or being created
 2.) Merging different components into single component
 3.) Counting the number of components
