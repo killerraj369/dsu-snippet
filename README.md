@@ -17,14 +17,17 @@ A snippet for DSU in C++
 
 2.) ds.findPar(int n) => returns the parent n
 
-3.) ds.unionNodesRank(int a, int b) 
+3.) ds.unionNodesRank(int a, int b)
+
    => merge the nodes a & b into single component using Rank vector
 
 4.) ds.unionNodesSize(int a, int b) // Use when you are required to find the size of a component
+    
     => merge the nodes a & b into single component using Size vector. To find out the size of 
     component using a node, find out its parent and then return its size.
 
 5.) ds.findVertex(int i, int j, int totalCol)
+    
     => Convert the curRow, curCol to the Vertex
 
 # Code Snippet
