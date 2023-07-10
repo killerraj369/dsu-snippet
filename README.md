@@ -3,9 +3,13 @@ A snippet for DSU in C++
 
 # Use DSU When
 1.) Dynamic Graph is present or grpah is changing or being created
+
 2.) Merging different components into single component
+
 3.) Counting the number of components
+
 4.) to tell if 2 nodes are connected or not in O(1) Time
+
 5.) Uses O(1) time for all of the functions , uses O(N) Space
 
 # How to use this snippet
