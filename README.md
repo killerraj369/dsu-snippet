@@ -32,8 +32,10 @@ A snippet for DSU in C++
 
 # Code Snippet
 
- class dsu 
+class dsu
+ 
 {
+
 public:
 
     vector<int> parent;
