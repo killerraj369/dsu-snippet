@@ -33,7 +33,6 @@ A snippet for DSU in C++
 # Code Snippet
 
 class dsu
- 
 {
 
 public:
