@@ -102,4 +102,4 @@ public:
     {
         return i*n+j;
     }
-};
+ };
