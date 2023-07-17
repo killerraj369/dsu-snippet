@@ -15,7 +15,7 @@ A snippet for DSU in C++
 # How to use this snippet
 1.) intialize dsu by writing dsu ds(n); creating dsu upto n vertices
 
-2.) ds.findPar(int n) => returns the parent n
+2.) ds.findPar(int n) => returns the parent of n
 
 3.) ds.unionNodesRank(int a, int b)
 
