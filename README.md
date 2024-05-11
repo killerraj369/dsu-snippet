@@ -71,11 +71,11 @@ public:
 
         if (rank[parentA] < rank[parentB])
         {
-            parent[parentB] = parentA;
+            parent[parentA] = parentB;
         }
         else if (rank[parentB] < rank[parentA])
         {
-            parent[parentA] = parentB;
+            parent[parentB] = parentA;
         }
         else
         {
